@@ -16,7 +16,7 @@ This project analyses BMW sales data from 2010 to 2024 to identify sales trends 
 - Generate business insights
 
 ## Dashboard
-(Add dashboard screenshot here)
+<img width="452" height="234" alt="image" src="https://github.com/user-attachments/assets/fa9f9279-a035-4111-adc7-e535e12ef1e4" />
 
 ## Key Insights
 - Highest sales year:
