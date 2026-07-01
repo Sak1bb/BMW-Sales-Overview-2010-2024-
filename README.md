@@ -1,4 +1,4 @@
-# BMW-Sales-Overview-2010-2024-
+# BMW-Sales-Overview-2010-2024
 The BMW Sales dataset is an excellent choice for data analysis, its structured format contains a diverse mix of categorical and numerical features data providing a practical environment for essential data information, preprocessing, and feature study techniques.
 # BMW Sales Overview (2010–2024)
 
